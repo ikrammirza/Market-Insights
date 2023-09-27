@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/market-insights/static/js/main.777912d5.js",
+    "static/js/496.32f6fd7b.chunk.js": "/market-insights/static/js/496.32f6fd7b.chunk.js",
+    "index.html": "/market-insights/index.html",
+    "main.777912d5.js.map": "/market-insights/static/js/main.777912d5.js.map",
+    "496.32f6fd7b.chunk.js.map": "/market-insights/static/js/496.32f6fd7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.777912d5.js"
+  ]
+}
