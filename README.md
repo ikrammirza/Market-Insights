@@ -16,4 +16,4 @@ It is developed using the following tech stacks :
 3.Third party APIs - Alpha Vantage, CoinGecko, etc.  
 4.Javascript Library - Chart.JS
 
-
+Live Link : [market-insights]( https://ikrammirza.github.io/market-insights/)
